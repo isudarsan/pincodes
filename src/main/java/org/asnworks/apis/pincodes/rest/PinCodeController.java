@@ -37,7 +37,7 @@ public class PinCodeController {
     @Autowired
     private PinCodeValidationUtil pinCodeValidationUtil;
 
-    @RequestMapping(method = RequestMethod.POST, value = "/pincode")
+    @RequestMapping(method = RequestMethod.POST, value = Constants.PIN_CODE_END_POINT)
     public ResponseEntity<LocalityResponseDTO> getPinCode(@RequestBody final LocalityRequestDTO localityRequestDTO)
         throws NoSuchPinCodeException, InvalidRequestException {
 
