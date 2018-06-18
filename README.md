@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/981b0545158841b3a474e5df2c192029)](https://www.codacy.com/app/sudarsan.a/pincodes?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=isudarsan/pincodes&amp;utm_campaign=Badge_Grade)
+
 # pincodes
 
 Indian Pin Codes Rest API provides the below endpoints to fetch related information from MySQL database.
