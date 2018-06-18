@@ -10,4 +10,4 @@ The below images shows the endpoints & their usage.
 
 ![/pincode](https://github.com/isudarsan/pincodes/blob/master/PinCodes1.PNG)
 
-![/villagesuggestions](https://github.com/isudarsan/pincodes/blob/master/PinCodes1.PNG)
+![/villagesuggestions](https://github.com/isudarsan/pincodes/blob/master/PinCodes2.PNG)
